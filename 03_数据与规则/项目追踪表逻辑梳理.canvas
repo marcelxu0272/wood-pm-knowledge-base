@@ -19,7 +19,7 @@
 		{"id":"4c4f01d2cec8d4ad","type":"text","text":"Admin","x":1900,"y":-115,"width":250,"height":50},
 		{"id":"4bf153fc0577d3e3","type":"text","text":"Approve2_SAS560_202605","x":1580,"y":-215,"width":250,"height":50,"color":"3"},
 		{"id":"5e25d418abb67bd9","type":"text","text":"J_202605","x":2180,"y":-190,"width":250,"height":50,"color":"3"},
-		{"id":"b9254d3f439b94b6","type":"text","text":"分发至所有管理人员","x":2460,"y":-115,"width":250,"height":50}
+		{"id":"b9254d3f439b94b6","type":"text","text":"生成报告","x":2460,"y":-115,"width":250,"height":50}
 	],
 	"edges":[
 		{"id":"19f8c100d903c3ed","fromNode":"3095ba005603776c","fromSide":"right","toNode":"8f7c2f60683f57ce","toSide":"left"},
